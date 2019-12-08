@@ -1,0 +1,4 @@
+R5T.Edenderry.Default - A default implementations of the example services of the Edenderry project.
+
+Goals
+
